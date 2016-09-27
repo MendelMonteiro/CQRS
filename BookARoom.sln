@@ -29,6 +29,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "places-integration-files", 
 		integration-files\THE GRAND BUDAPEST HOTEL-availabilities.json = integration-files\THE GRAND BUDAPEST HOTEL-availabilities.json
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookARoom.TestClient", "BookARoom.TestClient\BookARoom.TestClient.csproj", "{45298107-D787-4A1F-A1F5-40E56327C2EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{3C54CC13-C90F-4296-BD22-F9A1CE131C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C54CC13-C90F-4296-BD22-F9A1CE131C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C54CC13-C90F-4296-BD22-F9A1CE131C21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45298107-D787-4A1F-A1F5-40E56327C2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45298107-D787-4A1F-A1F5-40E56327C2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45298107-D787-4A1F-A1F5-40E56327C2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45298107-D787-4A1F-A1F5-40E56327C2EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
